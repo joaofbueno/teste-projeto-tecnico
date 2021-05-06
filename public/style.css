@@ -1,0 +1,21 @@
+.size-img {
+    width: auto;
+    height: auto;
+}
+
+.size-cont {
+    width: auto;
+    height: auto;
+}
+
+.r {
+    border-radius: 10px;
+}
+
+.br {
+    border: 2px black groove;
+}
+
+.bold {
+    font-weight: bolder;
+}
